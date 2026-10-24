@@ -1,12 +1,12 @@
 # MOT Explorer
 
-A responsive vehicle MOT history explorer demo built with React and Vite.
+A responsive vehicle MOT history explorer built with React and Vite.
 
 **Status:** In development 🚧
 
 ## About the Project
 
-MOT Explorer Demo is a personal front-end project designed to explore how vehicle MOT information could be presented through a clean, accessible, and user-friendly interface.
+MOT Explorer is a personal front-end project designed to explore how vehicle MOT information could be presented through a clean, accessible, and user-friendly interface.
 
 The project focuses on clear information hierarchy, reusable React components, responsive layouts, and a consistent design system.
 
@@ -46,13 +46,13 @@ This is a demonstration project using mock vehicle data. It is not an official D
 Clone the repository:
 
 ```bash
-git clone https://github.com/BatyrCodes/mot-explorer-demo.git
+git clone https://github.com/BatyrCodes/mot-explorer.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd mot-explorer-demo
+cd mot-explorer
 ```
 
 Install dependencies:
