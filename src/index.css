@@ -1,0 +1,22 @@
+
+:root {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  --main-action: #145B45;
+  --main-text: #172C2A;
+  --page-background: #EEF2EE;
+  --number-plate: #F7D76D;
+  --due-soon: #FFF3CF;
+  --eror: #FCEBEC;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Inter", sans-serif;
+}
