@@ -10,7 +10,7 @@ MOT Explorer is a personal front-end project designed to explore how vehicle MOT
 
 The project focuses on clear information hierarchy, reusable React components, responsive layouts, and a consistent design system.
 
-This is a demonstration project using mock vehicle data. It is not an official DVSA, DVLA, or GOV.UK service and does not provide verified official MOT records.
+This is a project using mock vehicle data. It is not an official DVSA, DVLA, or GOV.UK service and does not provide verified official MOT records.
 
 ## Current Progress
 
@@ -22,7 +22,7 @@ This is a demonstration project using mock vehicle data. It is not an official D
 - [ ] Create the vehicle registration search interface
 - [ ] Display sample vehicle information and MOT history
 - [ ] Add responsive layouts for desktop and mobile
-- [ ] Implement demo states, including loading, errors, and empty results
+- [ ] Implement sample states, including loading, errors, and empty results
 
 ## Tech Stack
 
@@ -76,11 +76,11 @@ Open the local URL displayed in your terminal.
 - Consistent typography, colours, and spacing
 - Responsive design for different screen sizes
 - Accessible forms and interactive elements
-- Honest labelling of demonstration data
+- Honest labelling of sample data
 
 ## Project Status and Data
 
-This project is currently under development. Vehicle information and MOT history will be presented as demo data unless a verified data source is integrated in the future.
+This project is currently under development. Vehicle information and MOT history will be presented as sample data unless a verified data source is integrated in the future.
 
 No affiliation with or endorsement by DVSA, DVLA, or GOV.UK is implied.
 
