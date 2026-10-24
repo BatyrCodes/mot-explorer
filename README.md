@@ -1,4 +1,4 @@
-# MOT Explorer Demo
+# MOT Explorer
 
 A responsive vehicle MOT history explorer demo built with React and Vite.
 
