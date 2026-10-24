@@ -1,16 +1,95 @@
-# React + Vite
+# MOT Explorer Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive vehicle MOT history explorer demo built with React and Vite.
 
-Currently, two official plugins are available:
+**Status:** In development 🚧
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About the Project
 
-## React Compiler
+MOT Explorer Demo is a personal front-end project designed to explore how vehicle MOT information could be presented through a clean, accessible, and user-friendly interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project focuses on clear information hierarchy, reusable React components, responsive layouts, and a consistent design system.
 
-## Expanding the ESLint configuration
+This is a demonstration project using mock vehicle data. It is not an official DVSA, DVLA, or GOV.UK service and does not provide verified official MOT records.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Current Progress
+
+- [x] Create a React application with Vite
+- [x] Set up the initial project structure
+- [x] Configure the Inter typeface
+- [x] Establish initial design colours and CSS styles
+- [ ] Build reusable React components
+- [ ] Create the vehicle registration search interface
+- [ ] Display sample vehicle information and MOT history
+- [ ] Add responsive layouts for desktop and mobile
+- [ ] Implement demo states, including loading, errors, and empty results
+
+## Tech Stack
+
+- **React** — UI development
+- **Vite** — development server and build tool
+- **JavaScript** — application logic
+- **CSS** — styling and responsive layouts
+- **Inter** — typography
+- **Git and GitHub** — version control
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/BatyrCodes/mot-explorer-demo.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd mot-explorer-demo
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## Design Principles
+
+- Clear and intuitive user interface
+- Reusable, maintainable React components
+- Consistent typography, colours, and spacing
+- Responsive design for different screen sizes
+- Accessible forms and interactive elements
+- Honest labelling of demonstration data
+
+## Project Status and Data
+
+This project is currently under development. Vehicle information and MOT history will be presented as demo data unless a verified data source is integrated in the future.
+
+No affiliation with or endorsement by DVSA, DVLA, or GOV.UK is implied.
+
+## Author
+
+**Batyr Rozgeldiyev**
+
+GitHub: [@BatyrCodes](https://github.com/BatyrCodes)
+
+---
+
+Built as a learning and portfolio project.
